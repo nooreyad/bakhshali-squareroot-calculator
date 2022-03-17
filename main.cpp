@@ -1,8 +1,5 @@
 /* This program takes a number and calculates the approximate square root of it using Bakhshali method
    Author: Noor Eyad Eissa
-   ID: 20210499
-   Version: 1.0
-   Program number: 9
 */
 
 #include <iostream>
