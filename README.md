@@ -1,2 +1,2 @@
-# bokhashi-squareroot-calculator
+# bakhshali-squareroot-calculator
 this program calculates an approximation for square roots of numbers
